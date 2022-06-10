@@ -10,7 +10,8 @@ Environment variables
 * JAVA_HOME: \jdk
 * Path: %JAVA_HOME%\bin; \gradle\bin; \Android\Sdk
 
-# Vue part
+Vue part
+-----
 
 ## Project setup
 ```
@@ -32,7 +33,8 @@ npm run build
 npm run serve
 ```
 
-# Cordova part
+Cordova part
+-----
 ### Make cordova folder
 ```
 cd ..
