@@ -13,7 +13,7 @@ Environment variables
 Vue part
 -----
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
