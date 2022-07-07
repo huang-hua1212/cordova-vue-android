@@ -1,9 +1,9 @@
 Technologies
 -----
 Project created with:
-* gradle version: 7.4 (setted at "path" env variables)
-* jdk version: 1.8.0 (setted at "path" env variables)
-* android studio: 2021.2.1 (Chipmunk)
+* gradle version: 7.4,  setted in "path" env
+* jdk version: 1.8.0,  setted in "path" env
+* android studio : Chipmunk 2021.2.1
 
 Environment variables
 -----
