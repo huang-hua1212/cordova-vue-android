@@ -1,3 +1,8 @@
+Content
+-----
+make project [social-media-platform](https://github.com/huang-hua1212/social-media-platform) change to other android version
+
+
 Technologies
 -----
 Project created with:
